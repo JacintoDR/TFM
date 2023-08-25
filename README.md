@@ -9,7 +9,7 @@
 En este repositorio se encuentran ubicados los archivos con los se han realizado los experimentos de este estudio.
 
 
-* *federated* - Notebooks para los ejecuciones con el framework FLOWER (https://flower.dev/)
+* *federated* - Notebooks para las ejecuciones con el framework FLOWER (https://flower.dev/)
 * *imbalanced* - Archivos de código para los experimentos de VAE y GAN con datasets no balanceados
 * *plots* - Scripts para la realización de las gráficas
 * *statistical_comparision* - Aplicación de test estadísticos para la comparación
