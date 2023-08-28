@@ -9,7 +9,7 @@ library("scmamp")
 ```
 
 ```{r}
-resultados <- read.csv("test_res_ensemble.csv", header = TRUE, sep = '\t')
+resultados <- read.csv("test_res.csv", header = TRUE, sep = '\t')
 tablatst <- cbind(resultados[,1:dim(resultados)[2]])
 colnames(tablatst) <- names(resultados)[1:dim(resultados)[2]]
 ```
@@ -54,16 +54,18 @@ quadePost(as.matrix(tablatst))
 ```{r}
 plotDensities(as.matrix(tablatst))
 ```
+
+
 ```{r}
 test <- postHocTest(as.matrix(tablatst), test="aligned ranks", correct="bergmann", use.rank=TRUE)
 plotRanking(pvalues=test$corrected.pval, summary=test$summary, alpha=0.05)
 ```
 
+
 ```{r}
 test <- postHocTest(as.matrix(tablatst), test="quade", correct="bergmann", use.rank=TRUE)
 plotRanking(pvalues=test$corrected.pval, summary=test$summary, alpha=0.05)
 ```
-
 
 ```{r}
 ##TABLA NORMALIZADA - smote (other) vs vae (ref) para WILCOXON
