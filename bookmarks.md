@@ -5,13 +5,12 @@
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <meta http-equiv="Content-Security-Policy"
       content="default-src 'self'; script-src 'none'; img-src data: *; object-src 'none'"></meta>
-<TITLE>Bookmarks</TITLE>
-<H1>Menú Marcadores</H1>
+<H1>Bookmarks</H1>
 
 <DL><p>
-    <DT><H3 ADD_DATE="1645507204" LAST_MODIFIED="1693070788" PERSONAL_TOOLBAR_FOLDER="true">Barra de herramientas de marcadores</H3>
+    <DT><H3 ADD_DATE="1645507204" LAST_MODIFIED="1693070788" PERSONAL_TOOLBAR_FOLDER="true">Trabajo fin de Máster</H3>
     <DL><p>
-        <DT><H3 ADD_DATE="1676830329" LAST_MODIFIED="1693070788">tfm</H3>
+        <DT>
         <DL><p>
             <DT><A HREF="https://medium.com/practical-coding/the-simplest-generative-model-you-probably-missed-c840d68b704" ADD_DATE="1676830308" LAST_MODIFIED="1676830329" ICON_URI="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACk0lEQVR4nO1XPWsiURQ9s6MBNcggQVMo0QgyhZAmkHYqE6wCNoL/xZ0qbTadxvwA8RdMIU4ISJqAIFrYJCOChQh+FoLRu8Wat47ODJpCU3hg4D7Ove+c+Xj3vQH+4TeAHgDa0dUDcL/Qxv0OhVcvmVu4EbAf9LmFk73h1z7FDwZ+hAGbFSkIAhKJBM7OzsBxHLrdLhRFQaPRsJyU53k4HA6Mx+ONTKytT0EQ6OHhgWazGRnh5eWFwuGw4dq+vb2lXq9HRERPT0/kdDoZd3JyQsFgcLVGP0EwGKSPjw9D4WX0+31KJpNrtavIZrOMf3x8JFVVzQ0IgrCR+Bem0yldXV2x+nw+b5h3fn5OAKhSqdBsNiO73W5s4O7ubmPxL1SrVQJAXq/XNCedTpPT6aT5fE5ERNFo1NhAq9Xa2gARkSRJFIvFTHlVVSkUCrHxzc0N02SrQJIk+P3+jb7aVcTjcYxGI1M+HA7D4/Gwsc/nYzHrA6IofkscAEKhEOx2uyl/enqK4+NjNl6OmQGbzbIlWMLtdoPjOFOe53kQ/d/zlnOZgff3928bqNVqmE6npnyn08FgMGDj4XDIYnbb5XIZ4/FY93g2RbFYhMvlMuU1TdMZaLfbLGZPYDAYIJfLbS2uaRoURUGxWDTNKZfLGI1G7DVMJhMdr2tEmqZttQRTqRSrV1XVMEcURQLA5j46OjJvxZFIZGMTsizraiVJWsspFAqMz2Qy9Pz8bL0XYNHTS6WSqXCz2aR4PG64GcmyzPJeX1/J7/fr5r24uNDlW54JLy8vcX19DVEUwfM8Wq0WFEXB29ubZeMJBALweDyo1+v4/Pw0zQOAw6H0YOBHGOjvUb/PA3AAkPZkIPsV/MHuf89lAPgLcCtkmcmdzEAAAAAASUVORK5CYII=">The simplest generative model you probably missed | by Oliver K. Ernst, Ph.D. | Practical coding | Medium</A>
             <DT><A HREF="https://www.tensorflow.org/tutorials/generative/cvae?hl=es-419" ADD_DATE="1679065031" LAST_MODIFIED="1679065034" ICON_URI="https://www.gstatic.com/devrel-devsite/prod/v47124a092dd56bf2680cfca4b2ab69e9e6a534f056a1a0dbc4abcaa7cdbba977/tensorflow/images/favicon.png" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABW0lEQVR4Ae3XAWYEMRjF8XeEHCFH6BFyhB5hrlBdVdVqqlXVUkoppYRlDGCPkKPMEXKD16dY0V3bmTTbsTr4AxI/kogPJMd3D8sHBD7C80k9I/AFtmSvcQtuYXgHL0ASgBmAAiS+wvMNZj+AGzQC9AJQAG4BUAAK0PMdTT3AFRyvEQWgABwAoADkByIDXDngApaXCAJQABYAyKCWCGxhhwPOYHgOL0ASgBUAFCCxg1dmN2CBRoBeAArAigCy+6pXzSbgBJaniAJQAO4JkBeVzQFOAP4hgModFCAUAEINQBTAkcRoAAkBnACxBJAEyG5rGWBdi4Yd0lCAF2DjvRYcwRHz9R2M8rsAKy52/GhllzBwCfMNYtUqBwyr/BUktvC//g0rPEM3A/4d4FiAfjoACQGMAF6ANAlgXQsrgJkOkDcDZsAhA9yI0czVBeT9MJyO3a90PDdbxnNTstcnyfWn/U3zzx8AAAAASUVORK5CYII=">Codificador automático variacional convolucional  |  TensorFlow Core</A>
