@@ -1,4 +1,6 @@
+# https://www.kaggle.com/code/samanemami/gan-on-tabular-data
 # https://samanemami.github.io/
+
 import os
 import logging
 import numpy as np
