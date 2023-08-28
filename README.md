@@ -15,5 +15,6 @@ En este repositorio se encuentran ubicados los archivos con los se han realizado
 * *statistical_comparision* - Aplicación de test estadísticos para la comparación
 * *GAN.py* - Código fuente de la clase GAN
 * *VAEOversampler.py* - Archivo fuente de la clase VAEOversampler
+* *bookmarks.md* - Recopilación de webs interesantes
 
 ----
