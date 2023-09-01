@@ -1,5 +1,5 @@
 """
-Autor:  JacintoDR/vae_oversampler 
+Author:  JacintoDR/vae_oversampler 
         [https://github.com/JacintoDR/vae_oversampler]
 forked from dyanni3/vae_oversampler 
         [https://github.com/dyanni3/vae_oversampler]
